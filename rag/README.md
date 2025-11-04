@@ -149,7 +149,10 @@ Default: `gpt-4o-mini` (can be changed in `src/rag_pipeline.py`)
 
 ## Screenshots
 
-Add screenshots of the application interface here.
+Add screenshots of the application int<img width="1470" height="956" alt="Screenshot 2025-11-04 at 8 02 32 AM" src="https://github.com/user-attachments/assets/ef6de9c9-a417-4e35-8ea5-524bf4387870" />
+<img width="1470" height="956" alt="Screenshot 2025-11-04 at 8 12 55 AM" src="https://github.com/user-attachments/assets/aae9ee11-a3b6-4d46-8a30-26fc9d65b320" />
+[RAG FAQ Assistant.pdf](https://github.com/user-attachments/files/23322384/RAG.FAQ.Assistant.pdf)
+
 
 ## Testing
 
